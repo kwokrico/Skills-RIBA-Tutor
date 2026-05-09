@@ -1,0 +1,28 @@
+{
+  "exam_title": "Autumn 2023",
+  "source": "raw_text",
+  "parsed_at_utc": "2026-05-09T13:06:41.657580+00:00",
+  "scenario_text": "Scenario\nProject A in London.",
+  "practice_problems": [
+    {
+      "number": 1,
+      "title_guess": "Practice Problem 1",
+      "raw_text": "Practice Problem 1\nEmail from Client dated 14 Oct 2023\nPlease advise.",
+      "evidence_items": [
+        "Email from Client dated 14 Oct 2023"
+      ]
+    },
+    {
+      "number": 2,
+      "title_guess": "Practice Problem 2",
+      "raw_text": "Practice Problem 2\nLetter from Contractor dated 15 Oct 2023\nWe need an extension of time.",
+      "evidence_items": [
+        "Letter from Contractor dated 15 Oct 2023"
+      ]
+    }
+  ],
+  "scenario_projects": [],
+  "warnings": [
+    "Detected 2 unique problems (expected 10): [1, 2]"
+  ]
+}
